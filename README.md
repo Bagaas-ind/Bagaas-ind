@@ -71,14 +71,6 @@
 
 <br/>
 
-### 📊 GitHub Analytics
-<div align="center">
-  <!-- Gambar statistik lokal yang sudah dibuat oleh robot GitHub Actions -->
-  <img src="./profile/stats.svg" alt="Bagaas's GitHub Stats" width="60%" />
-</div>
-
-<br/>
-
 <div align="center">
   <i>"First, solve the problem. Then, write the code."</i> <br>
   <b>— John Johnson</b>
