@@ -68,10 +68,3 @@
     </td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <i>"First, solve the problem. Then, write the code."</i> <br>
-  <b>— John Johnson</b>
-</div>
