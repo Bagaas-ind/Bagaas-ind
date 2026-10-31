@@ -73,7 +73,8 @@
 
 ### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bagaas-ind&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC" alt="Bagaas's GitHub Stats" width="48%" />
+  <!-- Saya ganti domain statistik ke alternatif yang lebih stabil -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Bagaas-ind&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=38B2AC&text_color=ffffff&icon_color=38B2AC" alt="Bagaas's GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bagaas-ind&theme=radical&hide_border=true&background=0D1117&stroke=38B2AC&ring=38B2AC&fire=38B2AC&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=38B2AC" alt="Bagaas's GitHub Streak" width="48%" />
 </div>
 
