@@ -30,41 +30,13 @@
 
 <br/>
 
-### 🌟 Featured Projects (Real Repositories)
+## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🌦️ Weather App</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <p align="center">Dashboard cuaca berbasis Next.js dengan integrasi API (Open-Meteo), latar belakang dinamis berdasarkan klasifikasi wilayah (Urban/Nature), dan mode simulasi offline.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🎬 Film Katalog</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-      <p align="center">Aplikasi katalog film modern terinspirasi dari Letterboxd. Dibangun dengan Next.js, TypeScript, dan Tailwind CSS. Dilengkapi halaman film dinamis dan sistem ulasan interaktif.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">❄️ AC Sejuk Web</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-      <p align="center">Platform layanan service AC panggilan yang dikelola oleh siswa Kelas Industri Panasonic SMKN 1 Kab. Tangerang. Fitur katalog layanan, galeri dokumentasi, dan integrasi pemesanan.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">⚙️ AC Sejuk Title</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-      </p>
-      <p align="center">Repositori pendukung berbasis PHP untuk proyek platform layanan AC Sejuk. Berfokus pada logika backend dan manajemen data.</p>
-    </td>
-  </tr>
-</table>
+Here are some of the projects I've been working on:
+
+- 🌦️ **Weather App** — A modern weather dashboard with dynamic backgrounds and offline simulation.
+- 🎬 **Film Katalog** — A Letterboxd-inspired movie catalog with interactive review systems.
+- 📄 **Saroka PDF Tools** — An all-in-one platform for generating and manipulating PDF files.
+- ❄️ **AC Sejuk Web** — A service booking platform for an industrial class project.
+
+> *More projects and detailed documentation are available in my repositories.*
