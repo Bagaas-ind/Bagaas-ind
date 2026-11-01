@@ -66,7 +66,7 @@ Here are some of the projects I've been working on:
 - 📄 **Saroka PDF Tools** — An all-in-one platform for generating and manipulating PDF files.
 - ❄️ **AC Sejuk Web** — A service booking platform for an industrial class project.
 
-> *More projects and detailed documentation are available in my repositories.*
+> *Proyek lainnya bisa kamu lihat langsung di tab Repositories.*
 
 ## 📫 Connect With Me
 
