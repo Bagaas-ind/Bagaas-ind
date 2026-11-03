@@ -1,37 +1,39 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hello,+I'm+Bagaas;Information+Systems+Student;Full-Stack+Web+Developer" alt="Typing SVG" />
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi,+I'm+Bagaas+%F0%9F%91%8B;Fullstack+Web+Developer" alt="Typing SVG" />
+  </h1>
 </div>
 
-# Hi there, I'm Bagaas 👋
+<p align="center">
+  <em>Mahasiswa <b>Sistem Informasi</b> di Universitas Insan Pembangunan Indonesia. Berfokus pada pengembangan aplikasi web <i>fullstack</i>, <i>dashboard</i> reaktif, dan solusi klien dinamis. Berdomisili di Kabupaten Tangerang, Banten.</em>
+</p>
 
-I'm an Information Systems student at Universitas Insan Pembangunan Indonesia. I focus on building full-stack web applications, reactive dashboards, and dynamic client solutions. Based in Kabupaten Tangerang, Banten.
+## 🎯 Focused On
+Web Development • Clean Code • Responsive Design • Software Architecture
 
-## 👋 About Me
+---
 
-I'm a developer who enjoys building practical software, experimenting with new technologies, and turning ideas into real projects.
+## 💼 Work Experience
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <b>🎯 Focused On</b><br>
-      Web Development<br>
-      Clean Code<br>
-      Responsive Design
-    </td>
-    <td width="33%" valign="top">
-      <b>🛠️ Building</b><br>
-      Personal Projects<br>
-      Modern Web Tech<br>
-      AI Integrations
-    </td>
-    <td width="33%" valign="top">
-      <b>🔐 Interested In</b><br>
-      Software Architecture<br>
-      Serverless Tech<br>
-      Security & PDF Manipulation
-    </td>
-  </tr>
-</table>
+**Praktik Kerja Lapangan (PKL) – PT ACS Wineto** *(5 Bulan)*
+*Teknisi Jaringan / QC Modem / Sales*
+- Melakukan instalasi dan konfigurasi perangkat WiFi di lokasi pelanggan.
+- Melakukan pengecekan kualitas (*Quality Control*) modem sebelum dipasang kepada pelanggan.
+- Melakukan *troubleshooting* dasar pada perangkat jaringan dan modem.
+- Memberikan edukasi kepada pelanggan mengenai penggunaan layanan internet.
+- Membantu kegiatan pemasaran (*sales*) dengan menawarkan layanan internet kepada calon pelanggan.
+- Bekerja sama dengan tim teknis untuk memastikan instalasi berjalan dengan baik.
+
+---
+
+## 🚀 Featured Projects
+
+- **📄 Saroka PDF Tools** — Platform *all-in-one* untuk membuat (dengan AI) dan memanipulasi file PDF. [Live Demo](https://simulator-pdf-tools.vercel.app/)
+- **🌦️ Synoptic Weather App** — Dashboard cuaca premium dengan latar belakang dinamis, peringatan hujan *real-time*, dan UI responsif. [Live Demo](https://cuaca-synoptic.vercel.app)
+
+> *More projects and detailed documentation are available in my repositories.*
+
+---
 
 ## 💻 Tech Stack
 
@@ -57,16 +59,7 @@ I'm a developer who enjoys building practical software, experimenting with new t
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 
-## 🚀 Featured Projects
-
-Here are some of the projects I've been working on:
-
-- 🌦️ **Weather App** — A modern weather dashboard with dynamic backgrounds and offline simulation.
-- 🎬 **Film Katalog** — A Letterboxd-inspired movie catalog with interactive review systems.
-- 📄 **Saroka PDF Tools** — An all-in-one platform for generating and manipulating PDF files.
-- ❄️ **AC Sejuk Web** — A service booking platform for an industrial class project.
-
-> *Proyek lainnya bisa kamu lihat langsung di tab Repositories.*
+---
 
 ## 📫 Connect With Me
 
