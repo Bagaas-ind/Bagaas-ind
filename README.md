@@ -15,7 +15,7 @@ Web Development • Clean Code • Responsive Design • Software Architecture
 
 ## 💼 Work Experience
 
-**Praktik Kerja Lapangan (PKL) – PT ACS Wineto** *(5 Bulan)*
+**Praktik Kerja Lapangan (PKL) – PT ACS Wineto**
 *Teknisi Jaringan / QC Modem / Sales*
 - Melakukan instalasi dan konfigurasi perangkat WiFi di lokasi pelanggan.
 - Melakukan pengecekan kualitas (*Quality Control*) modem sebelum dipasang kepada pelanggan.
