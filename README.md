@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Bagaas+Dwi+Akbar+%F0%9F%91%8B;Information+Systems+Student;Building+Developer+Tools+%26+Web+Applications;Learning.+Building.+Improving." alt="Animated introduction" />
 
 <p>
-  <b>Information Systems Student · Developer · Open Source Enthusiast</b>
+  <b>Information Systems Student · Web Developer · Open Source Enthusiast</b>
 </p>
 
 <p>
@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/GitHub-Bagaas--ind-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Software%20Development-2563EB?style=for-the-badge" alt="Software Development" />
-  <img src="https://img.shields.io/badge/Exploring-Cybersecurity-0F766E?style=for-the-badge" alt="Cybersecurity" />
 </p>
 
 </div>
@@ -25,14 +24,13 @@ I'm an Information Systems student at **Universitas Insan Pembangunan Indonesia*
 I enjoy learning by building projects, exploring how systems work, and improving my skills through real development challenges.
 
 - 🔭 Currently improving **React-Lara Forge**
-- 🛠️ Planning **AttackScope**, a defensive security assessment tool
-- 🌱 Exploring **Node.js, Laravel, React, TypeScript, and security engineering**
+- 🌱 Learning **JavaScript, Node.js, Laravel, React, and TypeScript**
 - 🤝 Interested in open-source collaboration and constructive feedback
-- 🎯 Goal: build reliable tools that solve real developer problems
+- 🎯 Goal: build useful, reliable tools and keep growing as a developer
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 <div align="center">
 
@@ -55,16 +53,6 @@ A Node.js CLI tool that scaffolds a Laravel backend and React frontend with a re
 - Cross-platform startup scripts
 
 [Explore the repository →](https://github.com/Bagaas-ind/react-lara-forge)
-
-### 🛡️ AttackScope — In Planning
-
-**A defensive external attack-surface assessment tool.**
-
-The planned goal is to help authorized system owners identify exposed digital assets, review security configurations, and understand potential risks.
-
-Planned areas include asset inventory, DNS and TLS checks, HTTP security headers, vulnerability intelligence, and security reporting.
-
-> AttackScope is currently in the planning stage. It will be designed for systems the user owns or is explicitly authorized to assess.
 
 ---
 
