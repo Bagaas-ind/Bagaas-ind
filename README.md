@@ -1,72 +1,103 @@
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=40&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi,+I'm+Bagaas+%F0%9F%91%8B;Fullstack+Web+Developer" alt="Typing SVG" />
-  </h1>
-</div>
 
-<p align="center">
-  <em>Mahasiswa <b>Sistem Informasi</b> di Universitas Insan Pembangunan Indonesia. Berfokus pada pengembangan aplikasi web <i>fullstack</i>, <i>dashboard</i> reaktif, dan solusi dinamis. Berdomisili di Kabupaten Tangerang, Banten.</em>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Bagaas+Dwi+Akbar+%F0%9F%91%8B;Information+Systems+Student;Building+Developer+Tools+%26+Web+Applications;Learning.+Building.+Improving." alt="Animated introduction" />
+
+<p>
+  <b>Information Systems Student · Developer · Open Source Enthusiast</b>
 </p>
 
-## 🎯 Focused On
-Web Development • Clean Code • Responsive Design • Software Architecture
+<p>
+  <a href="https://github.com/Bagaas-ind">
+    <img src="https://img.shields.io/badge/GitHub-Bagaas--ind-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-2563EB?style=for-the-badge" alt="Software Development" />
+  <img src="https://img.shields.io/badge/Exploring-Cybersecurity-0F766E?style=for-the-badge" alt="Cybersecurity" />
+</p>
+
+</div>
 
 ---
 
-## 💼 Work Experience
+## 👨‍💻 About Me
 
-**Praktik Kerja Lapangan (PKL) – PT ACS Wineto**
-*Teknisi Jaringan / QC Modem / Sales*
-- Melakukan instalasi dan konfigurasi perangkat WiFi di lokasi pelanggan.
-- Melakukan pengecekan kualitas (*Quality Control*) modem sebelum dipasang kepada pelanggan.
-- Melakukan *troubleshooting* dasar pada perangkat jaringan dan modem.
-- Memberikan edukasi kepada pelanggan mengenai penggunaan layanan internet.
-- Membantu kegiatan pemasaran (*sales*) dengan menawarkan layanan internet kepada calon pelanggan.
-- Bekerja sama dengan tim teknis untuk memastikan instalasi berjalan dengan baik.
+I'm an Information Systems student at **Universitas Insan Pembangunan Indonesia** with an interest in building practical software, developer tools, and web applications.
+
+I enjoy learning by building projects, exploring how systems work, and improving my skills through real development challenges.
+
+- 🔭 Currently improving **React-Lara Forge**
+- 🛠️ Planning **AttackScope**, a defensive security assessment tool
+- 🌱 Exploring **Node.js, Laravel, React, TypeScript, and security engineering**
+- 🤝 Interested in open-source collaboration and constructive feedback
+- 🎯 Goal: build reliable tools that solve real developer problems
 
 ---
 
 ## 🚀 Featured Projects
 
-- **📄 Saroka PDF Tools** — Platform *all-in-one* untuk membuat (dengan AI) dan memanipulasi file PDF. [Live Demo](https://simulator-pdf-tools.vercel.app/)
-- **🌦️ Synoptic Weather App** — Dashboard cuaca premium dengan latar belakang dinamis, peringatan hujan *real-time*, dan UI responsif. [Live Demo](https://cuaca-synoptic.vercel.app)
+<div align="center">
 
-> *More projects and detailed documentation are available in my repositories.*
+<a href="https://github.com/Bagaas-ind/react-lara-forge">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bagaas-ind&repo=react-lara-forge&theme=tokyonight&hide_border=true" alt="React-Lara Forge repository card" />
+</a>
+
+</div>
+
+### ⚙️ React-Lara Forge
+
+**Generate a Laravel API + React SPA starter project in minutes.**
+
+A Node.js CLI tool that scaffolds a Laravel backend and React frontend with a ready-to-customize application foundation.
+
+- Laravel API + React SPA architecture
+- Authentication starter and role-based access foundation
+- JavaScript and TypeScript frontend options
+- Database configuration options
+- Cross-platform startup scripts
+
+[Explore the repository →](https://github.com/Bagaas-ind/react-lara-forge)
+
+### 🛡️ AttackScope — In Planning
+
+**A defensive external attack-surface assessment tool.**
+
+The planned goal is to help authorized system owners identify exposed digital assets, review security configurations, and understand potential risks.
+
+Planned areas include asset inventory, DNS and TLS checks, HTTP security headers, vulnerability intelligence, and security reporting.
+
+> AttackScope is currently in the planning stage. It will be designed for systems the user owns or is explicitly authorized to assess.
 
 ---
 
-## 💻 Tech Stack
+## 🧰 Tech Stack & Tools
 
-**Languages (Native & Core)**
-<br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,php,html,css" alt="JavaScript, TypeScript, PHP, HTML and CSS" />
 
 **Frameworks & Libraries**
-<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
-**Databases & Tools**
-<br/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,laravel,nodejs,tailwind,vite" alt="React, Laravel, Node.js, Tailwind CSS and Vite" />
+
+**Databases & Developer Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode" alt="MySQL, SQLite, Git, GitHub and VS Code" />
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Overview
 
-<p align="left">
-  <a href="https://github.com/Bagaas-ind"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.instagram.com/_____bagaas.a"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bagaas-ind&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagaas-ind&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bagaas-ind&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
 ---
 
@@ -78,6 +109,36 @@ Web Development • Clean Code • Responsive Design • Software Architecture
 
 ---
 
+## 💼 Experience
+
+**PT ACS Wineto — Praktik Kerja Lapangan (PKL)**  
+*Teknisi Jaringan / QC Modem / Sales*
+
+- Assisted with Wi-Fi device installation and configuration at customer locations.
+- Performed basic modem quality checks before installation.
+- Helped troubleshoot basic network and modem issues.
+- Explained internet service usage to customers.
+- Supported the sales team in introducing internet services to prospective customers.
+
+---
+
+## 📫 Connect With Me
+
 <div align="center">
-  <b>Terima kasih sudah mampir ke profil saya! Jangan lupa ⭐ proyek yang kamu suka dan mari berkolaborasi. 🤝 LESGOO</b>
+  <a href="https://github.com/Bagaas-ind">
+    <img src="https://img.shields.io/badge/GitHub-Bagaas--ind-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/_____bagaas.a">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Learning in public. Building with purpose.
+
+*Thanks for visiting my profile. Feel free to explore my repositories, share feedback, or collaborate!*
+
 </div>
