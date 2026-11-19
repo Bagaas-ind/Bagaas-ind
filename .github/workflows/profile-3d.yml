@@ -1,6 +1,12 @@
 name: Generate 3D Contribution Graph
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/profile-3d.yml"
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
