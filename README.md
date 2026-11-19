@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <em>Mahasiswa <b>Sistem Informasi</b> di Universitas Insan Pembangunan Indonesia. Berfokus pada pengembangan aplikasi web <i>fullstack</i>, <i>dashboard</i> reaktif, dan solusi klien dinamis. Berdomisili di Kabupaten Tangerang, Banten.</em>
+  <em>Mahasiswa <b>Sistem Informasi</b> di Universitas Insan Pembangunan Indonesia. Berfokus pada pengembangan aplikasi web <i>fullstack</i>, <i>dashboard</i> reaktif, dan solusi dinamis. Berdomisili di Kabupaten Tangerang, Banten.</em>
 </p>
 
 ## 🎯 Focused On
