@@ -2,54 +2,34 @@
 
 # Bagaas Dwi Akbar
 
-**Information Systems Student · Aspiring Software Developer**
+### Information Systems Student · Software Development Enthusiast
 
-Learning by building practical tools and web applications.
+I enjoy turning ideas into practical software and learning how things work under the hood.
 
-<a href="https://github.com/Bagaas-ind">
-  <img src="https://img.shields.io/badge/GitHub-Bagaas--ind-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://github.com/Bagaas-ind/DevStack-CLI">
-  <img src="https://img.shields.io/badge/Featured_Project-DevStack_CLI-635BFF?style=for-the-badge&logo=github&logoColor=white" alt="DevStack CLI project" />
-</a>
+<p>
+  <a href="https://github.com/Bagaas-ind">
+    <img src="https://img.shields.io/badge/GitHub-Bagaas--ind-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-2563EB?style=flat-square" alt="Software Development" />
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-16A34A?style=flat-square" alt="Always learning" />
+</p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## About
 
-I'm an Information Systems student at **Universitas Insan Pembangunan Indonesia** with an interest in software development, web technologies, and developer tools.
+I'm an Information Systems student at **Universitas Insan Pembangunan Indonesia**, interested in building useful applications, exploring web technologies, and understanding the engineering behind software.
 
-I enjoy learning through hands-on projects, understanding how applications work behind the scenes, and improving my skills by solving practical problems.
+I believe the best way to improve is to keep building, testing, reading documentation, and learning from mistakes.
 
-- 🔭 Building **[DevStack CLI](https://github.com/Bagaas-ind/DevStack-CLI)**, a Node.js command-line toolkit for developer workflows.
-- 🌱 Exploring JavaScript, Node.js, PHP, Laravel, React, and TypeScript.
-- 🧩 Interested in application architecture, CLI development, and open-source software.
-- 🤝 Open to learning, constructive feedback, and collaboration.
+- 🌱 Currently strengthening my skills in JavaScript, Node.js, PHP, and TypeScript.
+- 🛠️ Exploring backend development, application architecture, and command-line tools.
+- 📚 Learning through hands-on projects and open-source practices.
+- 🤝 Interested in constructive feedback and meaningful collaboration.
 
-## 🚀 Featured Project
-
-<div align="center">
-
-<a href="https://github.com/Bagaas-ind/DevStack-CLI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bagaas-ind&repo=DevStack-CLI&theme=tokyonight&hide_border=true" alt="DevStack CLI repository card" />
-</a>
-
-</div>
-
-### ⚙️ [DevStack CLI](https://github.com/Bagaas-ind/DevStack-CLI)
-
-**Install frameworks. Generate application starters. Start building faster.**
-
-A Node.js CLI project focused on simplifying development setup and application scaffolding.
-
-- Laravel API + React SPA application starter.
-- JavaScript and TypeScript frontend options.
-- SQLite, MySQL, and PostgreSQL configuration.
-- Guided framework installer currently being developed and tested.
-
-## 🧰 Technologies & Tools
+## Tech Stack
 
 <div align="center">
 
@@ -57,7 +37,7 @@ A Node.js CLI project focused on simplifying development setup and application s
 
 <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" alt="JavaScript, TypeScript, PHP, HTML, CSS" />
 
-**Frameworks & Libraries**
+**Frameworks & Runtime**
 
 <img src="https://skillicons.dev/icons?i=nodejs,react,laravel,vite,tailwind" alt="Node.js, React, Laravel, Vite, Tailwind CSS" />
 
@@ -67,7 +47,7 @@ A Node.js CLI project focused on simplifying development setup and application s
 
 </div>
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
@@ -80,7 +60,7 @@ A Node.js CLI project focused on simplifying development setup and application s
 
 </div>
 
-## 📫 Connect
+## Connect
 
 - GitHub: [@Bagaas-ind](https://github.com/Bagaas-ind)
 - Instagram: [@_____bagaas.a](https://www.instagram.com/_____bagaas.a)
@@ -89,8 +69,6 @@ A Node.js CLI project focused on simplifying development setup and application s
 
 <div align="center">
 
-**Learning in public. Building with purpose.**
-
-Thanks for visiting. Feel free to explore my repositories, share feedback, or collaborate!
+*Learning continuously. Building thoughtfully.*
 
 </div>
