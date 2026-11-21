@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="720" alt="Animated anime rainy-night atmosphere" />
+
+<br />
+
 # Bagaas Dwi Akbar
 
 ### Information Systems Student · Software Development Enthusiast
