@@ -22,7 +22,6 @@
 
 - 🎓 Mahasiswa aktif program studi **Sistem Informasi**.
 - 💻 Berfokus pada pengembangan **Web Fullstack**, **Dashboard Reaktif**, dan **Software Architecture**.
-- 🌱 Saat ini sedang mendalami **Flutter** untuk Mobile App dan **CodeIgniter 4**.
 - ⚡ "Talk is cheap. Show me the code."
 
 <br/>
