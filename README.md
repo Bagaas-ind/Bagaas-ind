@@ -2,7 +2,7 @@
 
 <!-- Animasi Teks Utama -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Baga!+%F0%9F%91%8B;Information+Systems+Student;Fullstack+Web+Developer;Building+Clean+%26+Dynamic+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bagaas!+%F0%9F%91%8B;Information+Systems+Student;Fullstack+Web+Developer;Building+Clean+%26+Dynamic+Apps" alt="Typing SVG" />
 </a>
 
 <br/>
