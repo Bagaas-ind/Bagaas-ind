@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Animasi Teks Utama -->
+<!-- Animated Text Introduction -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bagaas!+%F0%9F%91%8B;Information+Systems+Student;Fullstack+Web+Developer;Building+Clean+%26+Dynamic+Apps" alt="Typing SVG" />
 </a>
@@ -22,7 +22,30 @@
 
 - 🎓 Mahasiswa aktif program studi **Sistem Informasi**.
 - 💻 Berfokus pada pengembangan **Web Fullstack**, **Dashboard Reaktif**, dan **Software Architecture**.
+- 🚀 Tertarik mengembangkan Developer Tools, AI-powered applications, dan automation systems.
 - ⚡ "Talk is cheap. Show me the code."
+
+<br/>
+
+### 💼 Work Experience & Practical Training
+
+**1. Network Technician — PT ACS Wineto**
+
+`5 Months`
+
+- 🌐 Installing Wi-Fi connections at customer locations.
+- 🔧 Performing modem quality control before installation.
+- 🛠️ Troubleshooting basic network and connectivity issues.
+- 💬 Explaining internet services to customers.
+- 🤝 Coordinating with technical teams during installation operations.
+
+**2. Electrical Panel Assembly — PT Simetri**
+
+`1 Month | During Vocational School`
+
+- ⚡ Assisting in electrical panel assembly.
+- 🔌 Working on electrical panel projects for hospital requirements.
+- 🛠️ Supporting the preparation and assembly of electrical components.
 
 <br/>
 
@@ -37,20 +60,22 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <table border="0" style="border: none;">
+
+  <table>
     <tr>
       <td align="center" width="50%">
         <img src="https://github-readme-stats.vercel.app/api?username=Bagaas-ind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true" alt="GitHub Stats" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bagaas-ind&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="100%" />
+        <img src="https://streak-stats.demolab.com/?user=Bagaas-ind&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="100%" />
       </td>
     </tr>
   </table>
-  
+
   <br/>
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagaas-ind&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="60%" />
+
 </div>
 
 <br/>
@@ -58,13 +83,23 @@
 ### 🤝 Connect with Me
 
 <div align="center">
+
   <a href="mailto:bagasdwiakbaar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" height="28" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN_KAMU" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/@____bagaas.a" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_____bagaas.a/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+**Build. Learn. Improve. Repeat.**
+
+*"The best way to predict the future is to build it."*
+
 </div>
