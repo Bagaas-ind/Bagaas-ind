@@ -64,7 +64,7 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Bagaas-ind&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;include_all_commits=true" alt="GitHub statistics including all-time commits" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Bagaas-ind&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF" alt="GitHub statistics including all-time commits" width="100%" />
       </td>
       <td align="center" width="50%">
         <img src="https://streak-stats.demolab.com/?user=Bagaas-ind&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakNum=C9D1D9" alt="GitHub contribution streak" width="100%" />
