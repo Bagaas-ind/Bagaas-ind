@@ -64,17 +64,17 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Bagaas-ind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Bagaas-ind&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;include_all_commits=true" alt="GitHub statistics including all-time commits" width="100%" />
       </td>
       <td align="center" width="50%">
-        <img src="https://streak-stats.demolab.com/?user=Bagaas-ind&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="100%" />
+        <img src="https://streak-stats.demolab.com/?user=Bagaas-ind&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=58A6FF&amp;fire=58A6FF&amp;currStreakNum=C9D1D9" alt="GitHub contribution streak" width="100%" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagaas-ind&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagaas-ind&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=58A6FF&amp;text_color=C9D1D9" alt="Most used programming languages" width="60%" />
 
 </div>
 
