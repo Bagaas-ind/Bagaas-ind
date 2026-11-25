@@ -2,12 +2,12 @@
 
 <!-- Animated Text Introduction -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bagaas!+%F0%9F%91%8B;Information+Systems+Student;Web+Developer;Building+Developer+Tools" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Bagaas!+%F0%9F%91%8B;Information+Systems+Student;Fullstack+Web+Developer;Building+Clean+%26+Dynamic+Apps" alt="Typing SVG" />
 </a>
 
 <br/>
 
-**Mahasiswa Sistem Informasi • Web Developer**
+**Mahasiswa Sistem Informasi • Fullstack Developer**
 
 <p>
   <img src="https://img.shields.io/badge/Location-Tangerang%2C%20Indonesia-2ea44f?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
@@ -20,45 +20,39 @@
 
 ### 💫 About Me
 
-- 🎓 Mahasiswa aktif **Sistem Informasi** di Universitas Insan Pembangunan Indonesia (2024–sekarang).
-- 💻 Berfokus mempelajari pengembangan aplikasi web menggunakan PHP, JavaScript, TypeScript, dan MySQL.
-- 🚀 Tertarik membangun **Developer Tools**, aplikasi berbasis AI, CLI, dan sistem otomasi.
-- 🧩 Senang mengeksplorasi arsitektur perangkat lunak dan mengembangkan proyek secara bertahap.
+- 🎓 Mahasiswa aktif program studi **Sistem Informasi**.
+- 💻 Berfokus pada pengembangan **Web Fullstack**, **Dashboard Reaktif**, dan **Software Architecture**.
+- 🚀 Tertarik mengembangkan Developer Tools, AI-powered applications, dan automation systems.
 - ⚡ "Talk is cheap. Show me the code."
 
 <br/>
 
 ### 💼 Work Experience & Practical Training
 
-**1. Production Operator — PT Inti Nomika Indonesia**
+**1. Network Technician — PT ACS Wineto**
 
-`1 Year`
+`5 Months`
 
-- 🏭 Menjalankan operasional produksi karton.
-- 📦 Menjalankan proses packing hasil produksi.
-- 📋 Membuat laporan operasional produksi.
+- 🌐 Installing Wi-Fi connections at customer locations.
+- 🔧 Performing modem quality control before installation.
+- 🛠️ Troubleshooting basic network and connectivity issues.
+- 💬 Explaining internet services to customers.
+- 🤝 Coordinating with technical teams during installation operations.
 
-**2. Warehouse Picker — PT Sociolla Warehouse**
-
-`2 Months`
-
-- 📦 Melakukan picking barang kosmetik sesuai pesanan.
-- 🔎 Membantu memastikan kesesuaian barang sebelum proses berikutnya.
-
-**3. Electrical Panel Assembly — PT Simetri**
+**2. Electrical Panel Assembly — PT Simetri**
 
 `1 Month | During Vocational School`
 
-- ⚡ Membantu proses perakitan panel listrik.
-- 🔌 Mendukung pengerjaan panel listrik untuk kebutuhan proyek rumah sakit.
+- ⚡ Assisting in electrical panel assembly.
+- 🔌 Working on electrical panel projects for hospital requirements.
+- 🛠️ Supporting the preparation and assembly of electrical components.
 
 <br/>
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,git,github,vscode&perline=8" alt="Technologies and tools" />
-  <p><sub>Technologies and tools used across my learning and projects.</sub></p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,react,nextjs,vue,laravel,tailwind,mysql,git,github,vscode,figma&perline=8" alt="My Skills" />
 </div>
 
 <br/>
